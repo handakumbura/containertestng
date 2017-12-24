@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG crash course">
+ <test name="Test One">
+ <classes>
+	<class name="org.testngrunner.TestcaseOne"/>
+	<class name="org.testngrunner.TestcaseTwo"/>
+ </classes>
+ </test>
+</suite>
